@@ -1,0 +1,6 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\bin\Debug\HW2_logic_3.exe.config
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\bin\Debug\HW2_logic_3.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\bin\Debug\HW2_logic_3.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\obj\Debug\HW2_logic_3.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\obj\Debug\HW2_logic_3.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_logic_3\HW2_logic_3\obj\Debug\HW2_logic_3.pdb

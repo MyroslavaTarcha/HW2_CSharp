@@ -1,0 +1,6 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\bin\Debug\HW2_Conditions_2.exe.config
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\bin\Debug\HW2_Conditions_2.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\bin\Debug\HW2_Conditions_2.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\obj\Debug\HW2_Conditions_2.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\obj\Debug\HW2_Conditions_2.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_Conditions_2\HW2_Conditions_2\obj\Debug\HW2_Conditions_2.pdb

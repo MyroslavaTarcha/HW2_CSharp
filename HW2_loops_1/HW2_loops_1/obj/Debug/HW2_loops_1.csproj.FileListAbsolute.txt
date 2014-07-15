@@ -1,0 +1,6 @@
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\bin\Debug\HW2_loops_1.exe.config
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\bin\Debug\HW2_loops_1.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\bin\Debug\HW2_loops_1.pdb
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\obj\Debug\HW2_loops_1.csprojResolveAssemblyReference.cache
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\obj\Debug\HW2_loops_1.exe
+c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_1\HW2_loops_1\obj\Debug\HW2_loops_1.pdb
