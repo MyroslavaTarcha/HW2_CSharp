@@ -1,0 +1,5 @@
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_3\HW2_loops_3\bin\Debug\HW2_loops_3.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_3\HW2_loops_3\bin\Debug\HW2_loops_3.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_3\HW2_loops_3\bin\Debug\HW2_loops_3.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_3\HW2_loops_3\obj\Debug\HW2_loops_3.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_3\HW2_loops_3\obj\Debug\HW2_loops_3.pdb

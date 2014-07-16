@@ -1,1 +1,7 @@
 c:\users\myrosya\documents\visual studio 2012\Projects\HW2_loops_2\HW2_loops_2\bin\Debug\HW2_loops_2.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\bin\Debug\HW2_loops_2.exe.config
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\obj\Debug\HW2_loops_2.csprojResolveAssemblyReference.cache
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\bin\Debug\HW2_loops_2.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\bin\Debug\HW2_loops_2.pdb
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\obj\Debug\HW2_loops_2.exe
+C:\Users\myrosya\Documents\Visual Studio 2012\Projects\HW2\HW2_loops_2\HW2_loops_2\obj\Debug\HW2_loops_2.pdb
